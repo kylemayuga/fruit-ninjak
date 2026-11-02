@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; media-src 'self' blob:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#100d19"><meta name="description" content="Enter the moonlit dojo. A complete, locally played Ninjak-inspired fruit-slicing game."><title>Fruit Ninjak — The art of the blade</title><link rel="icon" href="assets/emblem.svg" type="image/svg+xml"><link rel="stylesheet" href="./static/ui-4f89a26d0d0b.css"><script type="module" src="./static/game-d3117d1cc411.js"></script>
+<link rel="manifest" href="manifest.webmanifest">
+</head>
+<body>
+<div id="loading" role="status"><img src="assets/emblem.svg" alt=""><span>ENTERING THE DOJO</span><i></i></div>
+<main id="app" aria-label="Fruit Ninjak game">
+<section id="home" class="screen home" aria-label="Main menu">
+<div class="home-art">
+<svg width="0" height="0" aria-hidden="true" focusable="false" style="position:absolute"><defs><clipPath id="medallion-cutout" clipPathUnits="objectBoundingBox"><path d="M.5,.004C.774,.004,.995,.215,.995,.475C.995,.57,.96,.66,.9,.726H.92L1,.816L.92,.915H.82V1H.18V.915H.08L0,.816L.08,.726H.1C.04,.66,.005,.57,.005,.475C.005,.215,.226,.004,.5,.004Z"/></clipPath></defs></svg>
+<img class="key-art" src="assets/home-final.webp" width="1672" height="941" alt="Fruit Ninjak. A masked ninja in violet armor draws his katana above three glowing fruit medallions in a moonlit courtyard.">
+<canvas class="menu-fx" aria-hidden="true"></canvas>
+<div class="menu-light lantern-left" aria-hidden="true"></div><div class="menu-light lantern-right" aria-hidden="true"></div>
+<div class="blade-glint" aria-hidden="true"></div>
+<div class="currency" title="Total fruit sliced"><span class="coin">✦</span><div><strong id="total-fruit">0</strong><small>FRUIT SLICED</small></div></div>
+<nav class="home-tools" aria-label="Utilities"><button data-action="help" class="tool">HOW TO PLAY</button><button data-action="settings" class="tool">SETTINGS</button></nav>
+<button class="art-button arcade" data-action="arcade" aria-label="Play Arcade mode"><span class="medallion-visual" aria-hidden="true"></span><span>ARCADE</span><small>60 SECOND ASSAULT</small></button>
+<button class="art-button play" data-action="classic" aria-label="Play Classic mode"><span class="medallion-visual" aria-hidden="true"></span><span>PLAY</span><small>CLASSIC · THREE MISSES</small></button>
+<button class="art-button equipment" data-action="equipment" aria-label="Choose blade equipment"><span class="medallion-visual" aria-hidden="true"></span><span>EQUIPMENT</span><small>CHOOSE YOUR BLADE</small></button>
+<footer class="home-footer"><span class="wordmark">FRUIT <b>NINJAK</b><small>THE ART OF THE BLADE</small></span><button data-action="modes" class="text-button">EXPLORE GAME MODES <span aria-hidden="true">↗</span></button><span class="home-hint">MOVE TO SLICE · NO CLICK NEEDED<span>Precision. Discipline. One clean cut.</span></span></footer>
+</div>
+</section>
+<section id="arena" class="screen arena" hidden aria-label="Gameplay">
+<canvas id="game" aria-label="Fruit slicing arena. Move the mouse or swipe with a finger to slice; avoid red tactical bombs."></canvas>
+<header class="hud"><div class="score-panel"><span class="eyebrow">SCORE</span><strong id="score">0</strong><small>BEST <span id="hud-best">0</span></small></div><div class="mission"><span id="mode-label" class="eyebrow">CLASSIC</span><div id="status">3 / 3</div><small id="status-label">MISSES REMAINING</small></div><button class="icon-button" id="pause-button" data-action="pause" aria-label="Pause game"><svg viewBox="0 0 24 24"><path d="M8 5v14M16 5v14"/></svg></button></header>
+<div id="flow-status" class="flow-status" aria-live="polite"></div>
+<div id="round-message" class="round-message" aria-live="polite"></div>
+<div class="arena-footer"><span id="blade-label">OBSIDIAN KATANA</span><span id="arena-tip">HOLD & SWIPE · AVOID BOMBS</span><span>MI6 / SECTION K · LIVE TRAINING</span></div>
+</section>
+<div id="overlay" class="overlay" hidden><section class="panel" role="dialog" aria-modal="true" aria-labelledby="panel-title" tabindex="-1"><button id="close-panel" class="close" aria-label="Close dialog">×</button><div id="panel-content"></div></section></div>
+<div id="toast" role="status"></div><div id="storage-notice" hidden>Local storage is unavailable. Records last for this visit.</div>
+</main><noscript>This game requires JavaScript. Enable JavaScript to enter the dojo.</noscript>
+<section id="orientation-guard" class="orientation-guard" role="dialog" aria-modal="true" aria-labelledby="orientation-title" tabindex="-1" hidden><svg viewBox="0 0 80 100" aria-hidden="true"><path d="M25 12h30v68H25zM35 72h10M9 48a33 33 0 0 1 59-22M68 14v12H56M70 51A33 33 0 0 1 11 77M11 89V77h12"/></svg><span class="eyebrow">LANDSCAPE MODE</span><h1 id="orientation-title">Rotate to landscape.</h1><p>Turn your device sideways to play.<br>Your mission will wait.</p><button class="primary" type="button">LOCK LANDSCAPE</button></section>
+</body></html>
+
+

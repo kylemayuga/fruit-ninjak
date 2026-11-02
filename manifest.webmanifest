@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "Fruit Ninjak",
+  "short_name": "Fruit Ninjak",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#090b12",
+  "theme_color": "#100d19",
+  "icons": [{"src":"assets/emblem.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}

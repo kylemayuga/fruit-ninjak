@@ -8,5 +8,5 @@
   "orientation": "landscape",
   "background_color": "#090b12",
   "theme_color": "#100d19",
-  "icons": [{"src":"assets/emblem.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+  "icons": [{"src":"assets/favicon.png","sizes":"1254x1254","type":"image/png","purpose":"any"}]
 }

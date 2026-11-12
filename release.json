@@ -128,6 +128,11 @@
       "sha256": "74a4a639f9e6c476842ad9d4209aafaae672317b61ac5ba8ab2009f3c1152715"
     },
     {
+      "path": "assets/audio/voice-loss.mp3",
+      "bytes": 45601,
+      "sha256": "d96944dac1613bba92bd0311023a85d4d77f2ead1d018f87ed050d506a88b3a6"
+    },
+    {
       "path": "assets/audio/voice-start-2.mp3",
       "bytes": 37660,
       "sha256": "a94e785d26995c0e4b61136db6ec6ee3291d41e5136703e98297c7f8880d363f"
@@ -156,6 +161,11 @@
       "path": "assets/emblem.svg",
       "bytes": 315,
       "sha256": "f73177dea56cb6d4afa665edd7f455a6f00bb2e592dc2e34654a35d5aaa54a16"
+    },
+    {
+      "path": "assets/favicon.png",
+      "bytes": 1681110,
+      "sha256": "1a8c4ae7d9b0838308d91c7e414743c3227c01eacc9451b0ad9f106c15960e71"
     },
     {
       "path": "assets/home-final.webp",
@@ -194,13 +204,13 @@
     },
     {
       "path": "index.html",
-      "bytes": 5388,
-      "sha256": "dd09459e2d7fab8e064bdbf448cf565efd1a7cdc176de637358518e30ef5b1e5"
+      "bytes": 5383,
+      "sha256": "d87013ca3b4ed0a0027b7abca403965a3bf7513d01d64b80d013053ba0cd1edf"
     },
     {
       "path": "manifest.webmanifest",
-      "bytes": 326,
-      "sha256": "2f7b1ac26d25c6c9ebc4fbf1687c60b30d5bc918902eaae0f11b6f48ec9f0007"
+      "bytes": 329,
+      "sha256": "60212a920abc9eb5b9e92c1cbabec4d6282ed79a6479dc796b67c4d5d48e9572"
     },
     {
       "path": "README.md",
@@ -208,15 +218,15 @@
       "sha256": "711ea8b4946fb243c73adcbb4c335f2ffb13590806d1e97b94e5895ca372dba3"
     },
     {
-      "path": "static/game-d3117d1cc411.js",
-      "bytes": 57016,
-      "sha256": "d3117d1cc41181e35e9d77c06a78e2e68b2d77bc975d4f4b63b007807d8346de"
+      "path": "static/game-055007864a15.js",
+      "bytes": 58231,
+      "sha256": "055007864a154e6923b97a82744b23ee31dbeddba727eefe43e120632e435a1e"
     },
     {
-      "path": "static/ui-4f89a26d0d0b.css",
-      "bytes": 27312,
-      "sha256": "4f89a26d0d0b5744cd6f2c9a92b2f762982e735916dca2ba2f2d183c2ce05bad"
+      "path": "static/ui-a17f555cc654.css",
+      "bytes": 31517,
+      "sha256": "a17f555cc654ea1dbeab6763cf4f39933d35a0ea509ca4eda92f6786f9fc86f1"
     }
   ],
-  "totalBytes": 7725976
+  "totalBytes": 9458105
 }

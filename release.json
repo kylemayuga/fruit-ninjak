@@ -204,8 +204,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 5383,
-      "sha256": "d87013ca3b4ed0a0027b7abca403965a3bf7513d01d64b80d013053ba0cd1edf"
+      "bytes": 5521,
+      "sha256": "91d55b23208c460d5721e4da69ae1ab922d89fd4b88bc7a6ca8dcf619a181c3d"
     },
     {
       "path": "manifest.webmanifest",
@@ -218,15 +218,15 @@
       "sha256": "711ea8b4946fb243c73adcbb4c335f2ffb13590806d1e97b94e5895ca372dba3"
     },
     {
-      "path": "static/game-055007864a15.js",
-      "bytes": 58231,
-      "sha256": "055007864a154e6923b97a82744b23ee31dbeddba727eefe43e120632e435a1e"
+      "path": "static/game-87ea4c43f9ae.js",
+      "bytes": 62735,
+      "sha256": "87ea4c43f9ae6f3421a2bcd9ea837e29559b28e89a6e69152e1582d6c787c2d2"
     },
     {
-      "path": "static/ui-a17f555cc654.css",
-      "bytes": 31517,
-      "sha256": "a17f555cc654ea1dbeab6763cf4f39933d35a0ea509ca4eda92f6786f9fc86f1"
+      "path": "static/ui-6cbd587d9dd3.css",
+      "bytes": 28624,
+      "sha256": "6cbd587d9dd3979e00be7e38d4d9561f5a1e05a32fb546b4a0a8eb0caaa51da3"
     }
   ],
-  "totalBytes": 9458105
+  "totalBytes": 9459854
 }

@@ -158,6 +158,11 @@
       "sha256": "a8f253537603f44da856b82a7632cba87e05b949548e5eb34c7da0411a6c2537"
     },
     {
+      "path": "assets/dashboard_button.png",
+      "bytes": 885251,
+      "sha256": "a1d67b3d551d19f87c66eeaaacb6ac44571035d6639b72cd3ae3cff7356ecdc6"
+    },
+    {
       "path": "assets/emblem.svg",
       "bytes": 315,
       "sha256": "f73177dea56cb6d4afa665edd7f455a6f00bb2e592dc2e34654a35d5aaa54a16"
@@ -169,8 +174,8 @@
     },
     {
       "path": "assets/home-final.webp",
-      "bytes": 618464,
-      "sha256": "8752240c3da67c717d815f06dd21d81e8d1a890632d2f56d7168a2d987d72182"
+      "bytes": 2655074,
+      "sha256": "7292b83660db929553a04e43d037503b493f64452baec1eb66fdc17bfe2a4547"
     },
     {
       "path": "assets/stylized/apple.webp",
@@ -204,8 +209,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 5535,
-      "sha256": "11c4a3c2671efcd3563efffcabfd5ad824370700dac40d1283f2db1332ffe085"
+      "bytes": 5594,
+      "sha256": "d0a4256fc2a920d2cc23acde9e7939a00373040a953cb43c73bf0869b7e6f379"
     },
     {
       "path": "manifest.webmanifest",
@@ -218,15 +223,15 @@
       "sha256": "711ea8b4946fb243c73adcbb4c335f2ffb13590806d1e97b94e5895ca372dba3"
     },
     {
-      "path": "static/game-88afca2cd0a4.js",
-      "bytes": 63123,
-      "sha256": "88afca2cd0a4043b629e867c09f15add7eaa77b313c3e2eabe19a66c50ef1a89"
+      "path": "static/game-95f62e562f9d.js",
+      "bytes": 63905,
+      "sha256": "95f62e562f9ddb58cdf777731149f15db9dde3a1e49c1a662a20e26e2b85784a"
     },
     {
-      "path": "static/ui-d394407e5a1c.css",
-      "bytes": 34528,
-      "sha256": "d394407e5a1cb630ac78d8496332b1ad7d3524be9f5b059aa06af8285c892790"
+      "path": "static/ui-72f5a5edeb68.css",
+      "bytes": 43959,
+      "sha256": "72f5a5edeb68f85bd6f8121c97ff7265a2120288241c9f68d3697861e61435bf"
     }
   ],
-  "totalBytes": 9466160
+  "totalBytes": 12398293
 }

@@ -153,6 +153,11 @@
       "sha256": "233d05c810f18244d2cfa61c73c5df129ec8aa13fc4d9075f2766241d2026921"
     },
     {
+      "path": "assets/bronze.png",
+      "bytes": 481726,
+      "sha256": "b27a338db2e73539de2207caa3406a1e8a2c877cf2c8610a34276d01c36cf5b1"
+    },
+    {
       "path": "assets/courtyard.webp",
       "bytes": 331120,
       "sha256": "a8f253537603f44da856b82a7632cba87e05b949548e5eb34c7da0411a6c2537"
@@ -173,9 +178,19 @@
       "sha256": "1a8c4ae7d9b0838308d91c7e414743c3227c01eacc9451b0ad9f106c15960e71"
     },
     {
+      "path": "assets/gold.png",
+      "bytes": 471178,
+      "sha256": "e70eb07d285a7b5243fc31bec6228f07e428f00f2542b6f9f272d1fd936f0241"
+    },
+    {
       "path": "assets/home-final.webp",
       "bytes": 2655074,
       "sha256": "7292b83660db929553a04e43d037503b493f64452baec1eb66fdc17bfe2a4547"
+    },
+    {
+      "path": "assets/silver.png",
+      "bytes": 463443,
+      "sha256": "6ed4e58a156716eff98a716d4e50f7e63ce7ba49acfeef3a51eed2f9dfda6587"
     },
     {
       "path": "assets/stylized/apple.webp",
@@ -210,7 +225,7 @@
     {
       "path": "index.html",
       "bytes": 5594,
-      "sha256": "d0a4256fc2a920d2cc23acde9e7939a00373040a953cb43c73bf0869b7e6f379"
+      "sha256": "38bfa2c18595d00ca90029693acc8b3afeddcd97e79a06a2fa00a401c03d94b0"
     },
     {
       "path": "manifest.webmanifest",
@@ -223,15 +238,15 @@
       "sha256": "711ea8b4946fb243c73adcbb4c335f2ffb13590806d1e97b94e5895ca372dba3"
     },
     {
-      "path": "static/game-95f62e562f9d.js",
-      "bytes": 63905,
-      "sha256": "95f62e562f9ddb58cdf777731149f15db9dde3a1e49c1a662a20e26e2b85784a"
+      "path": "static/game-c0a52240af34.js",
+      "bytes": 64042,
+      "sha256": "c0a52240af346e6024cfc644f782ea48dd22e1afe4354457d48a0cc153cc2a9d"
     },
     {
-      "path": "static/ui-72f5a5edeb68.css",
-      "bytes": 43959,
-      "sha256": "72f5a5edeb68f85bd6f8121c97ff7265a2120288241c9f68d3697861e61435bf"
+      "path": "static/ui-c15a482ca1ec.css",
+      "bytes": 47335,
+      "sha256": "c15a482ca1ecfe25dc8b39fef2d0dcae9d32ae0e926149265be721414a306b3d"
     }
   ],
-  "totalBytes": 12398293
+  "totalBytes": 13818153
 }

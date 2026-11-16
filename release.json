@@ -219,13 +219,13 @@
     },
     {
       "path": "assets/training-wall.webp",
-      "bytes": 1741932,
-      "sha256": "676d4bb3990d0817377b4eebf76a577c53d3b4007de36796e7399196d7f36232"
+      "bytes": 668482,
+      "sha256": "2bd29ca7b232f2b071af0d0250cdc2668b2c4dedf32cca7ed1468754a9a18e8d"
     },
     {
       "path": "index.html",
-      "bytes": 5594,
-      "sha256": "e9cf53ee5ab0518a3ce5fd288ed44335bf58d7e066966404d8a4ab8c7f643ee5"
+      "bytes": 5672,
+      "sha256": "41597559048430b73dcdf8b427e36fec65e22afcc1afa98d32d5cb37d225a758"
     },
     {
       "path": "manifest.webmanifest",
@@ -243,10 +243,10 @@
       "sha256": "72c3e5a623260cd4f5177d7eaa72de6141a142a24ad2c3edff3d2b705022469e"
     },
     {
-      "path": "static/ui-c15a482ca1ec.css",
-      "bytes": 47335,
-      "sha256": "c15a482ca1ecfe25dc8b39fef2d0dcae9d32ae0e926149265be721414a306b3d"
+      "path": "static/ui-89299b55e532.css",
+      "bytes": 48439,
+      "sha256": "89299b55e53284e6cf3df4e49d60e562d402074807495f56f028597285ed378f"
     }
   ],
-  "totalBytes": 13818211
+  "totalBytes": 12745943
 }

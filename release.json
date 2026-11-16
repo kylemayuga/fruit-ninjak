@@ -225,7 +225,7 @@
     {
       "path": "index.html",
       "bytes": 5672,
-      "sha256": "41597559048430b73dcdf8b427e36fec65e22afcc1afa98d32d5cb37d225a758"
+      "sha256": "e3955d3c19a816374b5e8d82b1e6e3229de146dcf544d9eab7de01146bca2518"
     },
     {
       "path": "manifest.webmanifest",
@@ -243,10 +243,10 @@
       "sha256": "72c3e5a623260cd4f5177d7eaa72de6141a142a24ad2c3edff3d2b705022469e"
     },
     {
-      "path": "static/ui-89299b55e532.css",
-      "bytes": 48439,
-      "sha256": "89299b55e53284e6cf3df4e49d60e562d402074807495f56f028597285ed378f"
+      "path": "static/ui-0f610c41adfa.css",
+      "bytes": 48437,
+      "sha256": "0f610c41adfae1bf1d308ae2aeb29d7025a9d99f71d95981d4044354eb730e3a"
     }
   ],
-  "totalBytes": 12745943
+  "totalBytes": 12745941
 }

@@ -154,8 +154,8 @@
     },
     {
       "path": "assets/bronze.png",
-      "bytes": 481726,
-      "sha256": "b27a338db2e73539de2207caa3406a1e8a2c877cf2c8610a34276d01c36cf5b1"
+      "bytes": 464972,
+      "sha256": "2c0bc655a28c8c9b9f55da47f7f023cf085c39836fdb2ea9636dfeb4a60fbbb5"
     },
     {
       "path": "assets/courtyard.webp",
@@ -164,8 +164,8 @@
     },
     {
       "path": "assets/dashboard_button.png",
-      "bytes": 885251,
-      "sha256": "a1d67b3d551d19f87c66eeaaacb6ac44571035d6639b72cd3ae3cff7356ecdc6"
+      "bytes": 836546,
+      "sha256": "3c74e80ade322aaf446a8123977ac966f76bddc477e065cbd7285e94e136734c"
     },
     {
       "path": "assets/emblem.svg",
@@ -174,13 +174,13 @@
     },
     {
       "path": "assets/favicon.png",
-      "bytes": 1681110,
-      "sha256": "1a8c4ae7d9b0838308d91c7e414743c3227c01eacc9451b0ad9f106c15960e71"
+      "bytes": 1568495,
+      "sha256": "d6a804273ae41319d80585116420a30c3cb534f0d2d5b950e13ae494fb764a91"
     },
     {
       "path": "assets/gold.png",
-      "bytes": 471178,
-      "sha256": "e70eb07d285a7b5243fc31bec6228f07e428f00f2542b6f9f272d1fd936f0241"
+      "bytes": 448856,
+      "sha256": "cc108cc09e5d2cb60a55a25dd26cdfa234da19be4b5988f45d216c24665cdd9f"
     },
     {
       "path": "assets/home-final.webp",
@@ -189,8 +189,8 @@
     },
     {
       "path": "assets/silver.png",
-      "bytes": 463443,
-      "sha256": "6ed4e58a156716eff98a716d4e50f7e63ce7ba49acfeef3a51eed2f9dfda6587"
+      "bytes": 455639,
+      "sha256": "1fce80ac725ba6005ff260584276ab0f393dba0b309a27dfac63327dd6a0465d"
     },
     {
       "path": "assets/stylized/apple.webp",
@@ -248,5 +248,5 @@
       "sha256": "0f610c41adfae1bf1d308ae2aeb29d7025a9d99f71d95981d4044354eb730e3a"
     }
   ],
-  "totalBytes": 12745941
+  "totalBytes": 12537741
 }
